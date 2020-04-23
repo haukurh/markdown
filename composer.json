@@ -1,0 +1,17 @@
+{
+    "name": "haukurh/markdown",
+    "description": "Markdown parser",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haukur Hlöðversson",
+            "email": "haukur@haukurh.is"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
